@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/node.dir/main.cpp.o -o node  -lprotochain_consensus ../core/types/libcore_types.a -lprotochain_warnings -lprotochain_project_options -lprotochain_sanitizers

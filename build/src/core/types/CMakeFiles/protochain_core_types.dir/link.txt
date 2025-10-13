@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcore_types.a CMakeFiles/protochain_core_types.dir/types.cpp.o
+/usr/bin/ranlib libcore_types.a
